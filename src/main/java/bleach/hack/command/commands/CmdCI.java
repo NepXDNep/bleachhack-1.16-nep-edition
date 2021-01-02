@@ -45,7 +45,7 @@ public class CmdCI extends Command {
             if (mc.interactionManager.getCurrentGameMode() == GameMode.CREATIVE) {
                 mc.player.inventory.setStack(i, new ItemStack(null));
             } else {
-                BleachLogger.errorMessage("Bruh you're not in creative.");
+                BleachLogger.errorMessage("Bruh you're not in creative fucking retard.");
                 return;
             }
         }

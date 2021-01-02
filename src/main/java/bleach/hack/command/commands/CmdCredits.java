@@ -55,6 +55,7 @@ public class CmdCredits extends Command {
         BleachLogger.noPrefixMessage("\u00A79evan \u00A7fcontributed stuff and is cool");
         BleachLogger.noPrefixMessage("\u00A79axua \u00A7fcalled me a pepega and showed me code samples");
         BleachLogger.noPrefixMessage("\u00A79meteor ppl \u00A7ffanboy me for some reason and its weird");
+        BleachLogger.noPrefixMessage("\u00A79nep \u00A7fmade this fortnite edit");
         BleachLogger.noPrefixMessage("");
     }
 
